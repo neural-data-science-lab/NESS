@@ -1,5 +1,5 @@
 # Neural Ensemble Segmentation Suite - NESS
-summer internship: deep learning-based neuron segmentation
+
 
 Cell segmentation 
   - Start with open data such as:
